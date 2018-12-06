@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "701963439319",
+    "firebase_url": "https://kelevra-4b4c7.firebaseio.com",
+    "project_id": "kelevra-4b4c7",
+    "storage_bucket": "kelevra-4b4c7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:701963439319:android:f0aa55bc166a02b8",
+        "android_client_info": {
+          "package_name": "com.tbt.kelevra"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "701963439319-4ugqj2eavrdtpb8robdgelvmaot7faa7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBB5IKy577uNx_ftOuMNljzLLTz_NWHHi4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
